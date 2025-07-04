@@ -1,0 +1,11 @@
+# Core requirements for AI Space Assistant
+python-dotenv
+openai
+requests
+typer
+# Optional for web interface
+fastapi
+uvicorn
+# For local LLMs (optional)
+ollama
+transformers
